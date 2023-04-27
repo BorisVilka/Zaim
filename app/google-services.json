@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830710899036",
+    "project_id": "hroshidozarplatni",
+    "storage_bucket": "hroshidozarplatni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830710899036:android:0cc096c0aaadedc95ea199",
+        "android_client_info": {
+          "package_name": "com.app.hroshidozarplatni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830710899036-6ttnf5j6867iljf350pgf0ivcaqc6apn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Vq2_4g_C9g8PbLLy1UF9lVx1_yK_220"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830710899036-6ttnf5j6867iljf350pgf0ivcaqc6apn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

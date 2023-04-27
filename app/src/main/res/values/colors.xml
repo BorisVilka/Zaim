@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#4d84ee</color>
+    <color name="colorPrimary">#4d84ee</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="text_black">#000</color>
+    <color name="text_gray">#666</color>
+    <color name="text_gray11">#666</color>
+    <color name="text_gray22">#d7ac1b</color>
+
+    <color name="stars">#F2C94C</color>
+
+    <color name="stroke">#f9fe02</color>
+
+    <color name="proposition_view_bg">#E6F4FF</color>
+    <color name="proposition_button">#4d84ee</color>
+    <color name="proposition_badge_bg">#4d84ee</color>
+
+    <color name="popup_button">#f9fe02</color>
+
+    <color name="translucent_black">#BB000000</color>
+</resources>

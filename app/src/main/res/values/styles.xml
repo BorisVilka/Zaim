@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+    <style name="PropositionInfo">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="PropositionInfoText">
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:textSize">@dimen/text_size_info</item>
+        <item name="android:minHeight">16dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="PropositionInfoTextDescription">
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/text_size_description</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">right|center_vertical</item>
+    </style>
+
+    <style name="InfoDialog" parent="android:Theme.Light">
+        <item name="android:windowBackground">#BB000000</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="ClickButton">
+        <item name="android:background">@drawable/proposition_button_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/get_credit</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/stars</item>
+        <item name="colorControlActivated">@color/stars</item>
+        <item name="android:textSize">@dimen/text_size_info</item>
+    </style>
+</resources>

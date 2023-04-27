@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/info_dialog.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/policy_screen.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/proposition_footer.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/proposition_header.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/proposition_item_default.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/proposition_item_special.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/app_Zaim_source/app/src/main/res/layout/propositions_screen.xml" value="0.490036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

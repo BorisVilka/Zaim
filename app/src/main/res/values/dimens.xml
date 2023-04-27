@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="proposition_item_stroke_size">3dp</dimen>
+    <dimen name="proposition_item_radius">10dp</dimen>
+
+    <dimen name="popup_stroke_size">2dp</dimen>
+    <dimen name="popup_radius">10dp</dimen>
+
+    <dimen name="button_radius">4dp</dimen>
+
+    <dimen name="text_size_info">10sp</dimen>
+    <dimen name="text_size_mid">12sp</dimen>
+    <dimen name="text_size_description">14sp</dimen>
+    <dimen name="text_size_button">14sp</dimen>
+
+    <dimen name="proposition_border">16dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="labels">
+        <item>@id/tvMins</item>
+        <item>@id/tvRating</item>
+    </array>
+
+<!--    <array name="labels_def">-->
+<!--        <item>@id/t1</item>-->
+<!--        <item>@id/t2</item>-->
+<!--        <item>@id/t3</item>-->
+<!--        <item>@id/t4</item>-->
+<!--    </array>-->
+</resources>

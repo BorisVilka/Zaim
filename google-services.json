@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "246384081230",
+    "project_id": "annakorzh",
+    "storage_bucket": "annakorzh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246384081230:android:ad79bdb82d566cf236c61f",
+        "android_client_info": {
+          "package_name": "com.app.bezvidmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246384081230-311lku4g98rfom9pp53ge91dlk3k0s6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.bezvidmov",
+            "certificate_hash": "453b47812e5e5e322832dc2dec7596301b8a59ae"
+          }
+        },
+        {
+          "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQ2bw8_P6HT41gXgp-FovA9TCUkmOLrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246384081230:android:8f4526f6205709c836c61f",
+        "android_client_info": {
+          "package_name": "com.app.bystryjkredit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQ2bw8_P6HT41gXgp-FovA9TCUkmOLrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246384081230:android:3ef265c2d94e832c36c61f",
+        "android_client_info": {
+          "package_name": "com.app.mgnovennyjzajm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQ2bw8_P6HT41gXgp-FovA9TCUkmOLrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246384081230-jjfi4lqs9isnn5702nkuvblk860vsn6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

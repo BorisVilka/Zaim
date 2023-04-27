@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Топ позика до зарплати</string>
+<!--    <string name="next">Продолжить</string>-->
+    <string name="get_credit">Отримати гроші</string>
+    <string name="error">Возникла ошибка. Проверьте подключение к интернету или попробуйте позже</string>
+    <string name="policy">Інформація про наші послуги</string>
+    <!--    <string name="apply_proposition">Подать заявку</string>-->
+    <!--    <string name="increase_chance">Для увеличения шансов подайте заявку по нескольким предложениям</string>-->
+    <string name="clear">Понятно</string>
+    <string name="day1">день</string>
+    <string name="day2_4">днiв</string>
+    <string name="day5_more">днiв</string>
+    <string name="verified">Надежный</string>
+    <string name="curr">грн</string>
+    <string name="first_credit">перший кредит</string>
+    <string name="repeated">повторний</string>
+    <string name="days_amount">термiн</string>
+    <string name="metrika_app_id">497d4d81-615a-404c-b9f2-3b09cf30f029</string>
+    <!--    <string name="metrika_app_id">1bfc1e2c-d677-4a5e-bb98-9066ce947b47</string>-->
+    <!--    <string name="metrika_app_id">543dbc9b-75e7-4b9f-bcc7-52c34f65bbb7</string>-->
+
+    <string name="aff_id">17294</string>
+    <string name="policy_string">
+      <![CDATA[
+      <p dir="ltr" style="line-height:1.38;text-align: center;margin-top:12pt;margin-bottom:0pt;">
+      <span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+СДЕЛКА ПОЛЬЗОВАТЕЛЯ
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+ Настоящее соглашение регулирует взаимоотношения между администрацией приложения «Займ до зарплаты» (далее по тексту-Администрация), что предоставляет доступ и услуги приложений «Займы на карту» (далее по тексту также Приложение) и физическим лицом, использующим хотя бы один из сервисов, предоставляемые в рамках Приложения (дал по тексту Пользователь).
+  </span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+1. Настоящее Пользовательское соглашение регулирует порядок использования ресурсов, сервисов, возможностей Приложения, предоставляемых Администрацией Пользователь- желающий получить микрокредит, для получения информации и доступа к оффёру (компаниям, непосредственно предоставляющим эти услуги).
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+2.	Администрация оставляет за собой право в любое время изменять, добавлять или удалять пункты настоящего Соглашения без уведомления Пользователя. Изменения вступают в силу с момента опубликования новой редакции Соглашения в Приложении.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+3.	Администрация оставляет за собой право в любое время изменять содержание Дополнения без уведомления Пользователя.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+4.	Пользователь Приложения – дееспособное физическое лицо, гражданин/ка Республики Казахстан, достигшее 18-летнего возраста.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+5.	Пользователь не имеет права использовать ресурсы, сервисы и возможности Программы, а также принять условия Соглашения в случае несоответствия критериям, изложенным в п.4 настоящего Соглашения.
+ </span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+6.	Чтобы пользоваться ресурсами, сервисами и возможностями Программы, Пользователю необходимо сначала выразить свое согласие с Соглашением. Пользователь не имеет права пользоваться Приложением, если оно не приняло условия Соглашения. Продолжение использования Приложения Пользователем означает принятие Соглашения и изменения, внесенные в настоящее Соглашение.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+7.	Пользователь несет персональную ответственность за проверку настоящего Соглашения на наличие изменений.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+8.	Пользователь имеет право использовать ресурсы Приложения для получения доступа к офферу-компаниям, непосредственно предоставляющим услуги по кредитованию с целью подобрать для себя наиболее подходящий вариант.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+9.	Пользователь имеет право пользоваться Приложением исключительно в целях и порядке, предусмотренных Соглашением.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+10.	Пользователь несет персональную ответственность за предоставленные данные (номер мобильного телефона, e-mail, доступ к своей телефонной книге и т.п.). Пользователь превращен и понимает, что Администрация оставляет за собой право рассылать информационные сообщения, специальные и «горячие» предложения, условия проведения автора акций контактам Пользователя, указанных в его телефонной книге.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+11.	Пользователь предупрежден и понимает, что предоставление расширенных персональных данных увеличивает шансы на принятие положительного решения по услуге кредитования оффера.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+12.	Пользователь предупрежден и понимает, что Администрация не несет ответственности за действия третьих лиц-компаний, непосредственно оказывающих услуги по кредитованию.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+13.	Администрация имеет право ограничить доступ к Приложению в случае нарушения Пользователем условий настоящего Соглашения.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+14.	Пользователь предупрежден и понимает, что авторские права на материалы, ресурсы и сервисы Приложения, если не указано иное, принадлежат Администрации.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+15.	Все названия, наименования, товарные знаки, символы и слоганы, зарегистрированные в установленном порядке, являются собственностью их законных владельцев.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+16.	Копирование материалов Приложения без письменного согласия Администрации запрещено.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+17.	Пользователь предупрежден и понимает, что сбор, хранение, использование, обработка и разглашение информации, полученной Администрацией в результате использования Пользователем Программы и/или заполнение регистрационных форм, в том числе персональные данные пользователей, осуществляется Администрацией в соответствии с законодательством Республики Казахстан. Пользователь осознает и дает согласие на сбор и обработку своих персональных данных Администрацией в рамках и в целях, предусмотренных условиями настоящего Соглашения, в соответствии с законодательством Украины; обязуется уведомлять Администрацию в письменной форме об изменениях его персональных данных.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+18.	Администрация имеет право хранить персональные данные двух видов: в случае предоставления Пользователем- идентификационные данные (включая имя, фамилию и IP-адрес) и контактные данные (телефон и e-mail Пользователя).
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+19.	Деятельность Администрации проводится в соответствии с законодательством Республики Казахстан. Любые притязания, споры и официальные обращения будут рассматриваться исключительно в порядке, предусмотренном законодательством Республики Казахстан.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+20.	Администрация не несет ответственности за любые прямые или косвенные убытки, понесенные Пользователями или третьими сторонами, а также за упущенную выгоду в результате использования Программы.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+21.	Пользователь соглашается, что он несет единоличную ответственность (и что Администрация не несет ответственности перед Пользователем или какими-либо третьими лицами) за любое нарушение Пользователем своих обязательств, установленных настоящим Соглашением, а также за все последствия таких нарушений (включая любое какие ущерб или ущерб, которые может понести Администрация).
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+22.	Администрация имеет право раскрыть любую собранную о Пользователе Приложения информацию, если раскрытие необходимо в связи с расследованием или жалобой по неправомерному использованию Приложения или для установления (идентификации) Пользователя, который может нарушать или вмешиваться в права Администрации или права других пользователей Приложения .
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+23.	Администрация имеет право раскрыть любую информацию о Пользователе, которую сочтет необходимой для выполнения положений действующего законодательства или судебных решений, обеспечения выполнения условий настоящего Соглашения.
+</span></p>
+<p dir="ltr" style="line-height:1.38;text-indent: 35pt;text-align: justify;margin-top:12pt;margin-bottom:0pt;"><span style="font-size:13.999999999999998pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">
+24.	Администрация имеет право раскрыть информацию о Пользователе, если действующее законодательство Республики Казахстан требует или разрешает такое раскрытие.
+</span></p>
+]]></string>
+
+    <string name="notifiction_body">Вам доступны новые предложения</string>
+    <!--    <string name="redirect_message">Ви будете перенаправлені на web сторінку. Продовжити?</string>-->
+    <string name="cancel">Аннулировать</string>
+    <string name="rights">Credit Online 2023. All rights reserved.</string>
+    <string name="show_details"><u>Детальніше</u></string>
+    <string name="hide_details"><u>Закрити</u></string>
+    <string name="orgs_all">Залиште заявку в декілька организацій</string>
+    <string name="orgs_best">Кращі пропозиції</string>
+    <string name="small_popup_info">Натисніть на іконку монетки  праворуч, що б отримати більше інформації про наши посуги</string>
+    <string name="dialog_info_title">Получите кредит всего за 5 минут</string>
+    <string name="dialog_info_description">Получите кредит всего за 5 минут Благодаря нашему сервису Вы получаете доступ к эксклюзивным финансовым предоставлениям наших партнеров. Анализируя текущую ситуацию на рынке, а так же данные, предоставленные нам партнерами, мы создаем динамичный список предложений в порядке убывания по вероятности положительного ответа на заявку по кредиту. </string>
+    <string name="rates_from">ставка вiд</string>
+    <string name="rates">ставка</string>
+    <string name="max_amount">макс. сума</string>
+    <string name="rates_per_day">ставка в день</string>
+    <string name="till">до</string>
+    <string name="from">от</string>
+    <string name="mins">10 хв.</string>
+</resources>
