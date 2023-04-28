@@ -172,7 +172,7 @@ public class CRCUaPropositionsScreen extends CRCUaBaseScreen {
 
         handler.postDelayed(() -> fab.startAnimation(anim), 10000);
         handler.postDelayed(showPopoupRunnable, 30000);
-        handler.postDelayed(() ->getPropositions(),2500);
+        handler.postDelayed(() ->getPropositions(),5000);
     }
 
     @Override
@@ -184,7 +184,7 @@ public class CRCUaPropositionsScreen extends CRCUaBaseScreen {
     private void getPropositions() {
         String appId = Const.getAppId();
         Log.d("TAG",MyApp.sub1+" "+MyApp.sub2+" "+MyApp.sub3);
-        if(MyApp.af_status.equals("Non-organic")) {
+        if(MyApp.af_status!=null && MyApp.af_status.equals("Non-organic")) {
             Disposable disposable = CRCUaAPIClient.getInstance().getPropositions("com.app.hroshidozarplatni",MyApp.appsflyer_id, MyApp.sub1,MyApp.sub2,MyApp.sub3,"pokSnDpm4Lsh3uekEyn4SQ",MyApp.idfa)
                     .flatMap(crcPropositions -> {
                         ArrayList<AdapterModel> adapterModels = new ArrayList<>();

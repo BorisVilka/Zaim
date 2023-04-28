@@ -22,7 +22,7 @@ class MyApp: Application() {
         Thread{
             try {
                 val info = AdvertisingIdClient.getAdvertisingIdInfo(this)
-                idfa = info.id
+                idfa = info.id ?: "NULL"
                 Log.e("idfa", "$idfa")
             } catch (exception: IOException) {
             } catch (exception: GooglePlayServicesRepairableException) {
